@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -181,3 +182,6 @@ Project Link: [https://github.com/les-bogoss/LaraDESK](https://github.com/les-bo
 [license-shield]: https://img.shields.io/github/license/les-bogoss/LaraDESK.svg?style=for-the-badge
 [license-url]: https://github.com/les-bogoss/LaraDESK/blob/master/LICENSE.txt
 [product-screenshot]: dessin.svg
+=======
+# laradesk
+>>>>>>> 4609580da7bfd8f4821a6ca27ae6e5f44acfa13b
